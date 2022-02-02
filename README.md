@@ -1,12 +1,11 @@
 # PJ_RSA
-Projeto de Matemática Discreta sobre criptografia RSA
+​#​ ​Projeto de Matemática Discreta
 
-
-Professor: Bruno Pimentel
-
-Integrantes:
-
-Gustavo Ribeiro Franco Gaia
-Jorge Simões de Almeida Junior
-Karolaine Lima Santos
-Lucas Yuri Gomes Barros
+ ​*Criptografia RSA*​<br />
+ ​*Professor*​: Bruno Pimentel 
+  
+ ​*Integrantes*​:<br />
+ ​-​ Gustavo Ribeiro Franco Gaia <br />
+ ​-​ Jorge Simões de Almeida Junior <br />
+ ​-​ Karolaine Lima Santos <br />
+ ​-​ Lucas Yuri Gomes Barros <br />
